@@ -1,0 +1,40 @@
+
+.ray span:hover{
+    color: black !important;
+}
+.ray{
+    text-decoration: none;
+}
+.ray:hover{
+    text-decoration: none;
+}
+
+.rayb span:hover{
+    color: #17a2b8 !important;
+}
+.rayb{
+    text-decoration: none;
+}
+.rayb:hover{
+    text-decoration: none;
+}
+
+.rayc span:hover{
+    color: #dc3545 !important;
+}
+.rayc{
+    text-decoration: none;
+}
+.rayc:hover{
+    text-decoration: none;
+}
+
+.rayd span:hover{
+    color: #007bff !important;
+}
+.rayd{
+    text-decoration: none;
+}
+.rayd:hover{
+    text-decoration: none;
+}
